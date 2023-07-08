@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Develop created 2!");
         System.out.println("Feature created 2!");
         System.out.println("Super Feature created 2!");
-        System.out.println("Super Developer created!");
+        System.out.println("Super Developer created 1!");
 
         int a = 8;
         int b = 2;
