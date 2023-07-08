@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Super Feature created 2!");
 System.out.println("CheckPoint master");
         System.out.println("Super Developer created 2!");
+        System.out.println("CheckPoint master");
         
         int a = 8;
         int b = 2;
