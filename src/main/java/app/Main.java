@@ -7,8 +7,9 @@ public class Main {
         System.out.println("Develop created 2!");
         System.out.println("Feature created 2!");
         System.out.println("Super Feature created 2!");
-        System.out.println("CheckPoint master");
-
+System.out.println("CheckPoint master");
+        System.out.println("Super Developer created 2!");
+        
         int a = 8;
         int b = 2;
         int c = add(a, b);
