@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("My app for Users!");
         System.out.println("Develop created 2!");
-        System.out.println("Feature created!");
+        System.out.println("Feature created 1!");
         int a = 8;
         int b = 2;
         int c = add(a, b);
