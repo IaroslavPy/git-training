@@ -6,7 +6,7 @@ public class Main {
         System.out.println("My app for Users!");
         System.out.println("Develop created 2!");
         System.out.println("Feature created 2!");
-        System.out.println("Super Feature created!");
+        System.out.println("Super Feature created 2!");
 
         int a = 8;
         int b = 2;
