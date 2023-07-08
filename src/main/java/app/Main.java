@@ -10,7 +10,7 @@ public class Main {
 System.out.println("CheckPoint master");
         System.out.println("Super Developer created 2!");
         System.out.println("CheckPoint master");
-        System.out.println("Feature 3 created 1!");
+        System.out.println("Feature 3 created 2!");
         
         int a = 8;
         int b = 2;
